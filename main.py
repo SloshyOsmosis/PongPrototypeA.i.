@@ -3,7 +3,6 @@ import pygame, sys, random
 
 #Required before running any pygame code.
 pygame.init()
-gametime = pygame.time.Clock()
 
 #Adjusts window size.
 screen_width = 1280
